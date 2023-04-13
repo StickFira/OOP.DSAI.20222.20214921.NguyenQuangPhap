@@ -1,0 +1,14 @@
+Nguyen Quang Phap 20214921
+Lab 01
+6.1
+- If users choose "Cancel", the dialog appears the same as choosing "No"
+- If you want to change the options, you should use JOptionPane.showOptionDialog like shown:
+	String[] custom_option={"Agree", "Disagree"}; //customized options
+	JOptionPane.showOptionDialog(frame,
+	message,
+	title,
+	JOptionPane.YES_NO_OPTION, //for 2 options type
+	messagetype,
+	icon,
+	custom_option, //using above options
+	option[0]); //default option

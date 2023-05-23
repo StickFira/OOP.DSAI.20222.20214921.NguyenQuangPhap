@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ChoosingOption",
+            "request": "launch",
+            "mainClass": "ChoosingOption",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "TriangleStar",
+            "request": "launch",
+            "mainClass": "TriangleStar",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "NumericArrays",
+            "request": "launch",
+            "mainClass": "NumericArrays",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAddition",
+            "request": "launch",
+            "mainClass": "MatrixAddition",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "DaysOfMonths",
+            "request": "launch",
+            "mainClass": "DaysOfMonths",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "SecondDegreePoly",
+            "request": "launch",
+            "mainClass": "SecondDegreePoly",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "FirstDegreeSystem",
+            "request": "launch",
+            "mainClass": "FirstDegreeSystem",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "TwoNumbers",
+            "request": "launch",
+            "mainClass": "TwoNumbers",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "FirstDegreePoly",
+            "request": "launch",
+            "mainClass": "FirstDegreePoly",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "ex225",
+            "request": "launch",
+            "mainClass": "ex225",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "Lab01"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Lab01/ex2",
+            "request": "launch",
+            "mainClass": "Lab01/ex2",
+            "projectName": "Lab01"
+        }
+    ]
+}

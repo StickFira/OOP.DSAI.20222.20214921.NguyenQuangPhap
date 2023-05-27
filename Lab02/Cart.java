@@ -12,6 +12,16 @@ public class Cart {
 		}
 		else {System.out.println("The cart is almost full");}
 	}
+	public void addDVD (DVD [] dvdList){
+		for (int i=0; i<dvdList.length(); i++){
+			addDVD(dvdList[i]);
+		}
+	}
+	public void addDVD(DVD... dvd_tup) {
+		for (DVD i: dvd_tup) {
+			addDVD(i);
+		}
+	}
 	public void remove(DVD disc) {
         for (int i=0; i< qty_Ordered; i++) {
             if (items_Ordered[i]== disc) {
